@@ -48,7 +48,7 @@ const Player = () => {
         width='90%'
         height='90%'
         title='trailer'
-        frameborder='0'
+        frameBorder='0'
         allowFullScreen
       ></iframe>
       <div className='player-info'>
